@@ -18,6 +18,9 @@ O site é composto por 3 paginas diferentes:
 • My Favorites: Nessa pagina ficam adicionados os items que o usuario favoritou.
 
 
+![2](https://user-images.githubusercontent.com/48024333/188337756-d5482346-b280-40cf-8f20-1991b00d066a.gif)
+
+
 🚀 Tecnologias
 
 • ReactJS
