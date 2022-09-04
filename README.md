@@ -1,6 +1,7 @@
 GEEK LIST
 
-![7](https://user-images.githubusercontent.com/48024333/188336840-1e356b62-4265-434f-98ae-1d528e4ff6db.gif)
+
+![1](https://user-images.githubusercontent.com/48024333/188337546-b35ec8a4-82c3-47c8-b3db-990fbe4c183b.gif)
 
 
 
