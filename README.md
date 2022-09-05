@@ -32,3 +32,6 @@ O site é composto por 3 paginas diferentes:
 • useEffect
   
 • FireBase
+
+
+![3](https://user-images.githubusercontent.com/48024333/188339460-1f66682a-3a1c-426e-b7e9-e4c42e51487f.gif)
